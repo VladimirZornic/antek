@@ -1,4 +1,4 @@
-#** PhoneBookMe **
+# ** PhoneBookMe **
 * to use app with this phonebook api you need to change port for reactjs app
 1. to change port on Mac OS in folder `clients` use command $ exort PORT=8000
 1. to change port on Windos OS in folder `clients` use command set PORT=8000
