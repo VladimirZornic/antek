@@ -162,12 +162,12 @@ nav ul li a:hover{
 
 }
 .singel-phonebook__edit-btn{
-    background: url('../assets/icons/edit.png');
+    background: url('../icons/edit.png');
     background-repeat: no-repeat;
     background-size: contain;
 }
 .singel-phonebook__delete-btn{
-    background: url('../assets/icons/delete.png');
+    background: url('../icons/delete.png');
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -205,7 +205,7 @@ nav ul li a:hover{
     content: "";
     display: block;
     position: absolute;
-    background: url(../assets/icons/delete.png);
+    background: url(../icons/delete.png);
     top: 50%;
     left: 50%;
     min-width: 22px;
