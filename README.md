@@ -9,7 +9,8 @@
 - change package.json file, find 'scripts' and find command 'start',
 change this line `react-scripts start` to `PORT=8000 react-scripts start`
 
-* now start server from `server` folder with command node server.js which will start server on port 3000
-* then start reactjs app from `client` folder with npm start which will start your app on port 8000
+#***********************************************************************# 
+ now start server from `server` folder with command node server.js which will start server on port 3000
+ then start reactjs app from `client` folder with npm start which will start your app on port 8000
 
 #******************************** ENJOY ********************************# 
